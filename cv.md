@@ -9,3 +9,7 @@
 * Hexlet profile: https://ru.hexlet.io/u/kate_vak/courses
 * HTMLAcademy profile: https://htmlacademy.ru/profile/id850869
 * JavaScript https://learn.javascript.ru/
+## Languages:
+* **Russian** - native speaker.
+* **English** - A2.
+* **Polish** - A1(A2 in process).
